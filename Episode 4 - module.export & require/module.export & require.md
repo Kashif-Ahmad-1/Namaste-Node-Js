@@ -117,8 +117,9 @@ greet(`Dhamareshwar`);
 
 ### Default export Vs Named export
 
-[PREV: Chapter 02 - JS on Server](../Chapter%2002%20-%20JS%20on%20Server/02_js-on-server.md)
+[PREV: Chapter 03 - Let's Write Code](../Episode%203%20-%20Let's%20write%20code/Episode%203%20Summary.md)
 
-[NEXT: Chapter 05 - Diving into the Node.js github repo](../Chapter%2005%20-%20Diving%20into%20the%20NodeJS%20github%20repo/05_diving-into-the-nodejs-github-repo.md)
+[NEXT: Chapter 05 - Diving into the Node.js github repo](../Episode%205%20-%20Diving%20into%20the%20NodeJS/05_diving-into-the-nodejs-github-repo.md)
 
 [Back to index](../README.md)
+
