@@ -51,6 +51,6 @@
 
 [PREV: Chapter 01 - Introduction to Node.js](../Episode%2001%20-%20Introduction%20to%20NodeJs/01_Intro-to-nodejs.md)
 
-[NEXT: Chapter 03 - Let's Write Code](../Episode%203%20-%20Let's%20write%20code/)
+[NEXT: Chapter 03 - Let's Write Code](../Episode%203%20-%20Let's%20write%20code/Episode%203%20Summary.md)
 
 [Back to index](../README.md)
