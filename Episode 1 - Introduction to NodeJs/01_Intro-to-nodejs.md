@@ -62,6 +62,6 @@
 -   What is [event-driven architecture](#future-ref)?
 -   Differentiate Blocking & Non-Blocking I/O?
 
-[NEXT: Chapter 02 - JS on Server](../Chapter%2002%20-%20JS%20on%20Server/02_js-on-server.md)
+[NEXT: Chapter 02 - JS on Server](../Episode%202%20-%20JS%20On%20Server/02_js-on-server.md)
 
 [Back to index](../README.md)
