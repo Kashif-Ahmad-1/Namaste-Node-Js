@@ -97,8 +97,8 @@ function require(filePath) {
 -   [require polyfill](https://github.com/chenglou/require-polyfill/blob/master/require_polyfill.js)
 -   [Node.js Github Repo](https://github.com/nodejs)
 
-[PREV: Chapter 04 - module.exports](../Chapter%2004%20-%20module.export%20&%20require/04_module.export-and-require.md)
+[PREV: Chapter 04 - module.exports](../Episode%204%20-%20module.export%20&%20require/module.export%20&%20require.md)
 
-[NEXT: Chapter 06 - libuv & async IO](../Chapter%2006%20-%20libuv%20&%20async%20IO/06_libuv-and-async-io.md)
+[NEXT: Chapter 06 - libuv & async IO](../Episode%206%20-%20libuv%20&%20async%20IO/06_libuv-and-async-io.md)
 
 [Back to index](../README.md)
