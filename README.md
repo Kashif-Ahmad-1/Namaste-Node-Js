@@ -1,18 +1,14 @@
+<div align="center">
+
 # Namaste Node.js Notes 📚
 
-<img hieght="350" width="350" src="https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp">
+<img hieght="400" width="400" src="https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp">
+
+</div>
 
 This repository contains detailed notes from the **Namaste Node.js** course by **Akshay Saini**. The notes cover key concepts, in-depth explanations, and code examples that help demystify how Node.js works under the hood. Perfect for anyone looking to deepen their understanding of Node.js and its core principles.
 
 Feel free to contribute or use these notes as a reference for your learning journey!
-
----
-
-# Namaste Node.js
-
-_Any application that can be written in javascript will eventually be written in javascript_ -- Jeff Atwood. Founder, StackOverflow
-
----
 
 ## Table of Contents
 
@@ -29,3 +25,6 @@ _Any application that can be written in javascript will eventually be written in
 11. [Episode-11 | Creating a Server](#episode-11--creating-a-server)
 12. [Episode-12 | Databases - SQL & NoSQL](#episode-12--databases---sql--nosql)
 13. [Episode-13 | Creating a database & mongodb](#episode-13--creating-a-database--mongodb)
+
+## Telegram
+For Course Video - [@FreeNamasteNodejs](https://t.me/FreeNamasteNodejs)
